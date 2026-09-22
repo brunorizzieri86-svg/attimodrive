@@ -1,0 +1,16 @@
+ATTIMODRIVE — SITE CORRIGIDO
+
+Este pacote usa um index.html AUTOCONTIDO: CSS, ícones, fotos e telas de demonstração estão embutidos no próprio HTML.
+Isso evita o problema de pré-visualização sem estilos/imagens e reduz o risco de arquivos faltando no GitHub Pages.
+
+SITE: https://attimodrive.com.br/
+APP: https://brunorizzieri86-svg.github.io/attimodriveapp/
+
+UPLOAD NO REPOSITÓRIO attimodrive:
+1. index.html
+2. CNAME
+3. .nojekyll
+
+No GitHub Pages, use branch principal/main e pasta /(root).
+O domínio personalizado attimodrive.com.br deve ficar apenas no repositório do SITE.
+No repositório attimodriveapp, remova o domínio attimodrive.com.br e deixe o app no endereço GitHub Pages acima.
